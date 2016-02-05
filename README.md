@@ -1,5 +1,9 @@
 # netmarket-data-parsers
-A set of classed aimed to parse unstructured text goods characteristics to numeric properies and tags.
+A set of classes aimed to parse unstructured text goods characteristics to numeric properies and tags.
+
+It's wrote for yii2 framefork to be handled via it's console commands.
+
+It's not ideal from performance perspective, like it can't be runned in parallel processed but it satisfy and meet all project need on existed data volume.
 
 ItemSpecController - a class to control over the parsers, see actionProcess() and processRowsBatch()
 
