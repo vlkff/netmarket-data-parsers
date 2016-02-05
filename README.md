@@ -1,8 +1,7 @@
 # netmarket-data-parsers
 A set of classed aimed to parse unstructured text goods characteristics to numeric properies and tags.
 
-ItemSpecController - a class to control over the parsers
-see actionProcess() and processRowsBatch()
+ItemSpecController - a class to control over the parsers, see actionProcess() and processRowsBatch()
 
 ItemListSpecController - a class to control over the 'terms' 
 
